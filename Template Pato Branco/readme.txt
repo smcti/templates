@@ -1,42 +1,41 @@
 === Pato Branco ===
 
-Contribuição: Felipe Catani, Satil Pereira
+ContribuiÃ§Ã£o: Felipe Catani, Satil Pereira
 Requires at least: 4.7
 Tested up to: 5.9
-Stable tag: 2.6.1
-Version: 2.6.1
+Stable tag: 1.0.0
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Template para uso em portais da prefeitura municipal de Pato Branco, Escrito para Elementor for Wordpress
 
-== Descrição ==
+== DescriÃ§Ã£o ==
 
-Este template foi elaborado visando padronização dos portais, e seguindo diretrizes legais para orgãos publicos.
+Este template foi elaborado visando padronizaÃ§Ã£o dos portais, e seguindo diretrizes legais para orgÃ£os publicos.
 Criado exclusivamente para a Prefeitura de Pato Branco.
 
 Projeto coordenado: Felipe Catani
-Contribuição: Satil Pereira
+ContribuiÃ§Ã£o: Satil Pereira
 
 
-== Personalizações ==
+== PersonalizaÃ§Ãµes ==
 
-A maioria dos usuários não precisará editar os arquivos para personalizar este tema.
-Para personalizar a aparência do seu site, basta usar ***Elementor***.
+A maioria dos usuÃ¡rios nÃ£o precisarÃ¡ editar os arquivos para personalizar este tema.
+Para personalizar a aparÃªncia do seu site, basta usar ***Elementor***.
 
-No entanto, se você tem uma necessidade particular de adaptar este tema, por favor continue lendo.
+No entanto, se vocÃª tem uma necessidade particular de adaptar este tema, por favor continue lendo.
 
 = Style & Stylesheets =
 
 Todos os estilos do seu site devem ser manuseados diretamente dentro de ***Elementor***.
-Você não deve editar os arquivos SCSS neste tema em circunstâncias comuns.
+VocÃª nÃ£o deve editar os arquivos SCSS neste tema em circunstÃ¢ncias comuns.
 
 No entanto, se por algum motivo ainda houver a necessidade de adicionar ou alterar o CSS do site, por favor, use um tema novo.
 
 = Hooks =
 
-Para evitar o carregamento de qualquer uma dessas configurações, use o seguinte como caldeira e adicione o código ao seu novo tema `functions.php`:
+Para evitar o carregamento de qualquer uma dessas configuraÃ§Ãµes, use o seguinte como caldeira e adicione o cÃ³digo ao seu novo tema `functions.php`:
 ```php
 add_filter( 'choose-from-the-list-below', '__return_false' );
 ```
@@ -55,9 +54,9 @@ add_filter( 'choose-from-the-list-below', '__return_false' );
 
 == Copyright ==
 
-Este tema, como wordpress, é licenciado sob o GPL.
+Este tema, como wordpress, Ã© licenciado sob o GPL.
 
-Este template foi feito para uso com Elementor e reúne os seguintes recursos de terceiros:
+Este template foi feito para uso com Elementor e reÃºne os seguintes recursos de terceiros:
 
 Font Awesome icons for theme screenshot
 License: SIL Open Font License, version 1.1.
