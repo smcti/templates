@@ -1,0 +1,23 @@
+/**
+ * Style for the Elementor customizer.
+ */
+.elementor-panel-menu-item-pato_branco-settings-header {
+  margin-top: 15px;
+  border-radius: 6px 6px 0 0; }
+
+.elementor-panel-menu-item-theme-style-form-fields {
+  border-radius: 0 0 6px 6px; }
+
+.pato-branco.elementor-nerd-box .elementor-nerd-box-icon {
+  margin: 0; }
+
+.pato-branco.elementor-nerd-box .elementor-nerd-box-message .elementor-nerd-box-title {
+  margin: 24px 0 0;
+  font-size: 16px; }
+
+.pato-branco.elementor-nerd-box .elementor-nerd-box-message .elementor-nerd-box-message {
+  margin: 12px 0 0;
+  font-size: 11px; }
+
+.pato-branco.elementor-nerd-box .elementor-nerd-box-link {
+  margin: 24px 0 0; }
